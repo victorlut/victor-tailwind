@@ -2,10 +2,6 @@
 This is a high-quality, open-source, and **free Tailwind CSS admin template** that is perfect for creating data-rich backends, 
 powerful web applications and dashboard-admin projects.
 
-### Next.js
-### React
-### Tailwind
-
 ### Installation
 
 You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along with it)
